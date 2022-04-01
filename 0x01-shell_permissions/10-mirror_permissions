@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmode -reference=hello olleh
+chmode -reference=hello olleh
